@@ -13,3 +13,5 @@ Sentiment analysis with polarity (-1 to 1) and subjectivity (0 to 1) scores.
 Supports large texts up to 70,000 words.
 
 File upload or paste text directly.
+
+https://linguisticsanalyzer.streamlit.app/
