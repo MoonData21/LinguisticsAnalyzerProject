@@ -22,7 +22,7 @@ st.sidebar.info(
 
 # --- App title ---
 st.title("Linguistics Analyzer")
-
+st.info("Mobile users: Please click the arrow (top-left) to open the sidebar for instructions and notes.")
 # --- File upload OR text input ---
 uploaded_file = st.file_uploader("Upload a .txt file", type=["txt"])
 
