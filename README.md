@@ -14,4 +14,6 @@ Supports large texts up to 70,000 words.
 
 File upload or paste text directly.
 
+Libraries that are utilized: streamlit, textblob, wordcloud, matplotlib, pandas
+
 https://linguisticsanalyzer.streamlit.app/
