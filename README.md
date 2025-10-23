@@ -1,5 +1,7 @@
 Linguistics Analyzer Streamlit App:
 
+https://linguisticsanalyzer.streamlit.app/
+
 A Streamlit app for exploring word frequency, sentiment, and word patterns in text form.
 
 Features ----------
@@ -14,6 +16,4 @@ Supports large texts up to 70,000 words.
 
 File upload or paste text directly.
 
-Libraries that are utilized: streamlit, textblob, wordcloud, matplotlib, pandas
-
-https://linguisticsanalyzer.streamlit.app/
+Libraries that are utilized: streamlit, textblob, wordcloud, matplotlib
